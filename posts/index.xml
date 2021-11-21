@@ -13,17 +13,20 @@
       <pubDate>Sun, 21 Nov 2021 16:07:04 +0800</pubDate>
       
       <guid>https://super-saya.github.io/posts/second/</guid>
-      <description>Hello Hugo 2.3333333
- aaa bbb ccc  </description>
+      <description>Hello Hug </description>
     </item>
     
     <item>
-      <title>My First Blog</title>
+      <title>第一篇尝试性博客</title>
       <link>https://super-saya.github.io/posts/my-first-blog/</link>
       <pubDate>Sun, 21 Nov 2021 15:52:27 +0800</pubDate>
       
       <guid>https://super-saya.github.io/posts/my-first-blog/</guid>
-      <description>Hello Hugo  aaa bbb ccc  </description>
+      <description>Hello Hugo 1.第一次使用 并撰写个人博客
+2.第一次使用 markdown
+3.常试性的放了下超链接
+3.尝试性的放图片 相对路径 和 网址
+我的个人网站 </description>
     </item>
     
   </channel>
