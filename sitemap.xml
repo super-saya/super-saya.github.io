@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://super-saya.github.io/</loc>
+    <loc>https://super-saya.github.io/</loc>
+    <lastmod>2021-11-25T20:08:18+08:00</lastmod>
+  </url><url>
+    <loc>https://super-saya.github.io/posts/</loc>
+    <lastmod>2021-11-25T20:08:18+08:00</lastmod>
+  </url><url>
+    <loc>https://super-saya.github.io/posts/7/</loc>
+    <lastmod>2021-11-25T20:08:18+08:00</lastmod>
+  </url><url>
+    <loc>https://super-saya.github.io/posts/sixth/</loc>
     <lastmod>2021-11-24T13:17:26+08:00</lastmod>
   </url><url>
-    <loc>http://super-saya.github.io/posts/</loc>
-    <lastmod>2021-11-24T13:17:26+08:00</lastmod>
-  </url><url>
-    <loc>http://super-saya.github.io/posts/sixth/</loc>
-    <lastmod>2021-11-24T13:17:26+08:00</lastmod>
-  </url><url>
-    <loc>http://super-saya.github.io/posts/fourth/</loc>
+    <loc>https://super-saya.github.io/posts/fourth/</loc>
     <lastmod>2021-11-23T22:12:02+08:00</lastmod>
   </url><url>
-    <loc>http://super-saya.github.io/posts/third/</loc>
+    <loc>https://super-saya.github.io/posts/third/</loc>
     <lastmod>2021-11-23T08:33:29+08:00</lastmod>
   </url><url>
-    <loc>http://super-saya.github.io/posts/second/</loc>
+    <loc>https://super-saya.github.io/posts/second/</loc>
     <lastmod>2021-11-21T16:07:04+08:00</lastmod>
   </url><url>
-    <loc>http://super-saya.github.io/posts/my-first-blog/</loc>
+    <loc>https://super-saya.github.io/posts/my-first-blog/</loc>
     <lastmod>2021-11-21T15:52:27+08:00</lastmod>
   </url><url>
-    <loc>http://super-saya.github.io/categories/</loc>
+    <loc>https://super-saya.github.io/categories/</loc>
   </url><url>
-    <loc>http://super-saya.github.io/tags/</loc>
+    <loc>https://super-saya.github.io/tags/</loc>
   </url>
 </urlset>
