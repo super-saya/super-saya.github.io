@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://super-saya.github.io/posts/</link>
+    <link>https://super-saya.github.io/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jan 2022 23:00:31 +0800</lastBuildDate><atom:link href="http://super-saya.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jan 2022 23:00:31 +0800</lastBuildDate><atom:link href="https://super-saya.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>16</title>
-      <link>http://super-saya.github.io/posts/16/</link>
+      <link>https://super-saya.github.io/posts/16/</link>
       <pubDate>Mon, 17 Jan 2022 23:00:31 +0800</pubDate>
       
-      <guid>http://super-saya.github.io/posts/16/</guid>
+      <guid>https://super-saya.github.io/posts/16/</guid>
       <description>test</description>
     </item>
     
     <item>
       <title>Day9</title>
-      <link>http://super-saya.github.io/posts/14/</link>
+      <link>https://super-saya.github.io/posts/14/</link>
       <pubDate>Thu, 09 Dec 2021 23:09:29 +0800</pubDate>
       
-      <guid>http://super-saya.github.io/posts/14/</guid>
+      <guid>https://super-saya.github.io/posts/14/</guid>
       <description>感谢克里斯
 我好像从瓶颈期中走出来了
 至少有种进步的感觉
@@ -31,10 +31,10 @@ Front Level wait for me!</description>
     
     <item>
       <title>Day6&amp;Day7&amp;Day8</title>
-      <link>http://super-saya.github.io/posts/13/</link>
+      <link>https://super-saya.github.io/posts/13/</link>
       <pubDate>Wed, 08 Dec 2021 23:16:21 +0800</pubDate>
       
-      <guid>http://super-saya.github.io/posts/13/</guid>
+      <guid>https://super-saya.github.io/posts/13/</guid>
       <description>嗯&amp;hellip;&amp;hellip;
 节奏乱了
 但是 没有关系
@@ -45,10 +45,10 @@ Front Level wait for me!</description>
     
     <item>
       <title>Day 3&amp; Day 4</title>
-      <link>http://super-saya.github.io/posts/12/</link>
+      <link>https://super-saya.github.io/posts/12/</link>
       <pubDate>Sun, 05 Dec 2021 00:15:47 +0800</pubDate>
       
-      <guid>http://super-saya.github.io/posts/12/</guid>
+      <guid>https://super-saya.github.io/posts/12/</guid>
       <description>昨天没有看 &amp;hellip;&amp;hellip;
 今天也没有认真看
 只看了大概两个小时
@@ -58,10 +58,10 @@ Front Level wait for me!</description>
     
     <item>
       <title>Day 2</title>
-      <link>http://super-saya.github.io/posts/11/</link>
+      <link>https://super-saya.github.io/posts/11/</link>
       <pubDate>Thu, 02 Dec 2021 23:52:33 +0800</pubDate>
       
-      <guid>http://super-saya.github.io/posts/11/</guid>
+      <guid>https://super-saya.github.io/posts/11/</guid>
       <description>今天大概一个半小时
 有点急躁了
 不必要这么赶
@@ -71,10 +71,10 @@ Front Level wait for me!</description>
     
     <item>
       <title>first day</title>
-      <link>http://super-saya.github.io/posts/10/</link>
+      <link>https://super-saya.github.io/posts/10/</link>
       <pubDate>Thu, 02 Dec 2021 06:46:55 +0800</pubDate>
       
-      <guid>http://super-saya.github.io/posts/10/</guid>
+      <guid>https://super-saya.github.io/posts/10/</guid>
       <description>昨晚睡觉前想起来没写
 算了明天早上写
 记第一天尝试
@@ -86,10 +86,10 @@ Front Level wait for me!</description>
     
     <item>
       <title>A chellenge</title>
-      <link>http://super-saya.github.io/posts/9/</link>
+      <link>https://super-saya.github.io/posts/9/</link>
       <pubDate>Wed, 01 Dec 2021 07:18:58 +0800</pubDate>
       
-      <guid>http://super-saya.github.io/posts/9/</guid>
+      <guid>https://super-saya.github.io/posts/9/</guid>
       <description>#这个尝试将持续一个月
 并不是为了完成挑战而做
 而是为了在这个过程 有一个挑战自我的感觉
@@ -99,10 +99,10 @@ Front Level wait for me!</description>
     
     <item>
       <title>无题</title>
-      <link>http://super-saya.github.io/posts/8/</link>
+      <link>https://super-saya.github.io/posts/8/</link>
       <pubDate>Tue, 30 Nov 2021 00:13:39 +0800</pubDate>
       
-      <guid>http://super-saya.github.io/posts/8/</guid>
+      <guid>https://super-saya.github.io/posts/8/</guid>
       <description>#不知道想写什么
 *事情好像很多 但好像也不多 *
 时间好像很多 但好像也不多
@@ -116,10 +116,10 @@ Front Level wait for me!</description>
     
     <item>
       <title>教学时间</title>
-      <link>http://super-saya.github.io/posts/7/</link>
+      <link>https://super-saya.github.io/posts/7/</link>
       <pubDate>Thu, 25 Nov 2021 20:08:18 +0800</pubDate>
       
-      <guid>http://super-saya.github.io/posts/7/</guid>
+      <guid>https://super-saya.github.io/posts/7/</guid>
       <description>前天教了某人如何建博客
 好为人师的我终究是遭受到了折磨
 隔着屏幕的指导确实难顶</description>
@@ -127,10 +127,10 @@ Front Level wait for me!</description>
     
     <item>
       <title>当我们在谈论跑步的时候我们在谈论什么</title>
-      <link>http://super-saya.github.io/posts/sixth/</link>
+      <link>https://super-saya.github.io/posts/sixth/</link>
       <pubDate>Wed, 24 Nov 2021 13:17:26 +0800</pubDate>
       
-      <guid>http://super-saya.github.io/posts/sixth/</guid>
+      <guid>https://super-saya.github.io/posts/sixth/</guid>
       <description>#关于跑步
 终于想明白为什么跑步会感冒了
 很可能是我没有穿速干衣服
@@ -143,10 +143,10 @@ Front Level wait for me!</description>
     
     <item>
       <title>重要的事情</title>
-      <link>http://super-saya.github.io/posts/fourth/</link>
+      <link>https://super-saya.github.io/posts/fourth/</link>
       <pubDate>Tue, 23 Nov 2021 22:12:02 +0800</pubDate>
       
-      <guid>http://super-saya.github.io/posts/fourth/</guid>
+      <guid>https://super-saya.github.io/posts/fourth/</guid>
       <description>#重要的事情说三遍
 #喝水
 #喝水
@@ -156,10 +156,10 @@ Front Level wait for me!</description>
     
     <item>
       <title>最近的状态</title>
-      <link>http://super-saya.github.io/posts/third/</link>
+      <link>https://super-saya.github.io/posts/third/</link>
       <pubDate>Tue, 23 Nov 2021 08:33:29 +0800</pubDate>
       
-      <guid>http://super-saya.github.io/posts/third/</guid>
+      <guid>https://super-saya.github.io/posts/third/</guid>
       <description>#学习与娱乐的平衡
 经常刷b站（csgo视频 或者美女视频）然后忘乎所以，或者常常不知道时间去哪里了
 有尝试进行屏幕时间控制，效果并不理想
@@ -174,19 +174,19 @@ Front Level wait for me!</description>
     
     <item>
       <title>一月街健</title>
-      <link>http://super-saya.github.io/posts/second/</link>
+      <link>https://super-saya.github.io/posts/second/</link>
       <pubDate>Sun, 21 Nov 2021 16:07:04 +0800</pubDate>
       
-      <guid>http://super-saya.github.io/posts/second/</guid>
+      <guid>https://super-saya.github.io/posts/second/</guid>
       <description>#计划安排 ##力量训练 &amp;ndash;克里斯(我的最爱) 1.引体专项： -辅助单臂引体5 两只手 -反手引体 (双手上单手下)10 -宽距，标准，窄距正手 各10 -宽距，标准，窄距反手 各10 -突击引体 正反握*10两边 待更新&amp;hellip;&amp;hellip;..</description>
     </item>
     
     <item>
       <title>第一篇尝试性博客</title>
-      <link>http://super-saya.github.io/posts/my-first-blog/</link>
+      <link>https://super-saya.github.io/posts/my-first-blog/</link>
       <pubDate>Sun, 21 Nov 2021 15:52:27 +0800</pubDate>
       
-      <guid>http://super-saya.github.io/posts/my-first-blog/</guid>
+      <guid>https://super-saya.github.io/posts/my-first-blog/</guid>
       <description>Hello Hugo 1.第一次使用 并撰写个人博客
 2.第一次使用 markdown
 3.常试性的放了下超链接
